@@ -1,12 +1,12 @@
 {
-    "name": "ludeeus/integration_blueprint",
+    "name": "custom_components/donetick-integration_directory",
     "image": "mcr.microsoft.com/devcontainers/python:3.13",
     "postCreateCommand": "scripts/setup",
     "forwardPorts": [
-        8123
+        8124
     ],
     "portsAttributes": {
-        "8123": {
+        "8124": {
             "label": "Home Assistant",
             "onAutoForward": "notify"
         }

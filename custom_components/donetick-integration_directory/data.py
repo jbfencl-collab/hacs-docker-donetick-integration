@@ -1,4 +1,4 @@
-"""Custom types for integration_blueprint."""
+"""Custom types for custom_components/donetick-integration_directory."""
 
 from __future__ import annotations
 

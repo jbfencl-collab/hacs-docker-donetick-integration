@@ -1,0 +1,12 @@
+{
+  "domain": "custom_components/donetick-integration_directory",
+  "name": "custom_components/donetick-integration_directory",
+  "codeowners": [
+    "@jbfencl-collab"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/jbfencl-collab/hacs-docker-donetick-integration",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/jbfencl-collab/hacs-docker-donetick-integration/issues",
+  "version": "0.1.0"
+}
